@@ -18,7 +18,7 @@
 
 ![moderate_solution](Images/moderate_solution.png)
 
-##About this Repository
+## About this Repository
 
 * Resources folder contains both the macro enabled and regular excel worksheets
 * Images folder contains screen shots for each year of results of the Multi year stock data.
