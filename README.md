@@ -16,7 +16,7 @@
 
 * The result should look as follows.
 
-![moderate_solution](Images/moderate_solution.png)
+![moderate_solution](Images/2014_MultiYearStockData.png)
 
 ## About this Repository
 
